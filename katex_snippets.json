@@ -1,0 +1,194 @@
+{
+    "()": {
+    "prefix": "lr",
+    "body": [
+        "\\left\\(","\t$0","\\right\\)"
+    ],
+    "description": "LaTeX scalable parentheses, wrap"
+    },
+    "[]": {
+    "prefix": "LR",
+    "body": [
+        "\\left\\[","\t$0","\\right\\]"
+    ],
+    "description": "LaTeX scalable brackets, wrap"
+    },
+    "math-block": {
+    "prefix": "math",
+    "body": [
+        "```math",
+        "\t$0",
+        "```"
+    ],
+    "description": "KaTeX math block"
+    },
+    "$-symbol": {
+    "prefix": "usd",
+    "body": ["\\text{\\$}$0"],
+    "description": "US Dollar symbol"
+    },
+
+    "euro-symbol": {
+    "prefix": "eur",
+    "body": ["\\text{€}$0"],
+    "description": "Euro symbol"
+    },
+
+    "won-symbol": {
+    "prefix": "krw",
+    "body": ["\\text{₩}$0"],
+    "description": "Korean Won symbol"
+    },
+
+    "yen-symbol": {
+    "prefix": "jpy",
+    "body": ["\\text{￥}$0"],
+    "description": "Japanese Yen symbol"
+    },
+
+    "pound-symbol": {
+    "prefix": "gbp",
+    "body": ["\\text{£}$0"],
+    "description": "British Pound symbol"
+    },
+
+    "yuan-symbol": {
+    "prefix": "cny",
+    "body": ["\\text{¥}$0"],
+    "description": "Chinese Yuan symbol"
+    },
+
+    "rupee-symbol": {
+    "prefix": "inr",
+    "body": ["\\text{₹}$0"],
+    "description": "Indian Rupee symbol"
+    },
+    "dfrac": {
+    "prefix": "frac",
+    "body": [
+        "\\dfrac{$0}{$1}"
+    ],
+    "description": "Insert LaTeX dfrac"
+    },
+    "therefore-symbol": {
+    "prefix": "therefore",
+    "body": ["\\therefore $0"],
+    "description": "Insert LaTeX therefore symbol"
+    },
+    "subscript": {
+    "prefix": "_",
+    "body": ["_{${0}}"],
+    "description": "Insert LaTeX subscript"
+    },
+    "superscript": {
+    "prefix": "^",
+    "body": ["^{${0}}"],
+    "description": "Insert LaTeX superscript"
+    },
+    "to-right": {
+    "prefix": "rightarrow",
+    "body": ["\\rightarrow $0"],
+    "description": "Insert LaTeX right arrow"
+    },
+
+    "to-Right": {
+    "prefix": "Rightarrow",
+    "body": ["\\Rightarrow $0"],
+    "description": "Insert LaTeX double right arrow"
+    },
+
+    "to-left": {
+    "prefix": "leftarrow",
+    "body": ["\\leftarrow $0"],
+    "description": "Insert LaTeX left arrow"
+    },
+
+    "to-Left": {
+    "prefix": "Leftarrow",
+    "body": ["\\Leftarrow $0"],
+    "description": "Insert LaTeX double left arrow"
+    },
+
+    "up-arrow": {
+    "prefix": "uparrow",
+    "body": ["\\uparrow $0"],
+    "description": "Insert LaTeX up arrow"
+    },
+
+    "Up-arrow": {
+    "prefix": "Uparrow",
+    "body": ["\\Uparrow $0"],
+    "description": "Insert LaTeX double up arrow"
+    },
+
+    "down-arrow": {
+    "prefix": "downarrow",
+    "body": ["\\downarrow $0"],
+    "description": "Insert LaTeX down arrow"
+    },
+
+    "Down-arrow": {
+    "prefix": "Downarrow",
+    "body": ["\\Downarrow $0"],
+    "description": "Insert LaTeX double down arrow"
+    },
+    "dot": {
+    "prefix": "dot",
+    "body": ["\\dot{$0}"],
+    "description": "Insert LaTeX \\dot{}"
+    },
+
+    "cdot": {
+    "prefix": "cdot",
+    "body": ["\\cdot $0"],
+    "description": "Insert LaTeX \\cdot"
+    },
+
+    "times": {
+    "prefix": "times",
+    "body": ["\\times $0"],
+    "description": "Insert LaTeX \\times"
+    },
+
+    "overline": {
+    "prefix": "overline",
+    "body": ["\\overline{$0}"],
+    "description": "Insert LaTeX \\overline{}"
+    },
+
+    "oplus": {
+    "prefix": "oplus",
+    "body": ["\\oplus $0"],
+    "description": "Insert LaTeX \\oplus"
+    },
+
+    "ominus": {
+    "prefix": "ominus",
+    "body": ["\\ominus $0"],
+    "description": "Insert LaTeX \\ominus"
+    },
+
+    "mu-symbol": {
+    "prefix": "mu",
+    "body": ["\\mu $0"],
+    "description": "Insert Greek letter mu"
+    },
+
+    "pi-symbol": {
+    "prefix": "pi",
+    "body": ["\\pi $0"],
+    "description": "Insert Greek letter pi"
+    },
+
+    "eta-symbol": {
+    "prefix": "eta",
+    "body": ["\\eta $0"],
+    "description": "Insert Greek letter eta"
+    },
+
+    "forall": {
+    "prefix": "forall",
+    "body": ["\\forall $0"],
+    "description": "Insert LaTeX forall"
+    }
+}

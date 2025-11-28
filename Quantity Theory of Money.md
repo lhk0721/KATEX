@@ -92,3 +92,12 @@ E_{\$/€}=c\cdot\dfrac{P_{US}}{P_{EU}}
    \text{g}^{US}_t -\text{g}^{EU}_t
 \right)\\
 ```
+
+```math
+r = i - \pi\\
+i = r + \pi
+```
+
+```math
+P_{US}\downarrow, \bar{M^s_{US}} \Rightarrow \left( \dfrac{M^s_{US}}{P_{US}}\right) \uparrow
+```

@@ -1,4 +1,11 @@
 ```math
+% \text{\$} \text{€} \text{₩} \text{￥}
+% \Delta \left( \right) \dfrac{}{}
+
+\dfrac{\dot{E}}{E} = \pi^{US}_t - \pi^{EU}_t
+```
+
+```math
 \dfrac{\left(\dfrac{\dot{M_{US}}}{M_{US}}\right)}{\left(\dfrac{\dot{L_{EU}}}{L_{EU}}\right)-\left(\dfrac{\dot{Y_{US}}}{Y_{US}}\right)}-\dfrac{\left( \dfrac{\dot{M_{EU}}}{M_{EU}} \right)}{\left(\dfrac{\dot{L_{EU}}}{L_{EU}}\right)-\left(\dfrac{\dot{Y_{EU}}}{Y_{EU}}\right)}
     
 \\
