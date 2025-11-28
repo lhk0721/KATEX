@@ -190,5 +190,14 @@
     "prefix": "forall",
     "body": ["\\forall $0"],
     "description": "Insert LaTeX forall"
+    },
+
+    "sim-tilde": {
+    "prefix": "sim",
+    "body": [
+        "\\sim"
+    ],
+    "description": "LaTeX ~ (sim) symbol"
     }
+
 }
