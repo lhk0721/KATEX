@@ -91,4 +91,22 @@ C _{0}+C _{1} \left(
 \right\}
 
 ```math
-`` 
+``` 
+
+```math
+\overline{M ^{S}} \uparrow , \overline{P} \cdot 
+```
+```math
+L(R,Y_0) = \left(
+    \dfrac{\overline{M ^{S}} \uparrow}{\overline{P}}
+\right) \uparrow 
+```
+
+R_{\text{\$}} = R_{\text{€}} +\dfrac{E^e_{\text{\$} / \text{€}} \uparrow  -E_{\text{\$} / \text{€}}}{E_{\text{\$} / \text{€}}}
+
+
+```math
+Y \rightarrow  \left(
+    DD \downarrow | \ AA \uparrow 
+\right) \downarrow 
+```

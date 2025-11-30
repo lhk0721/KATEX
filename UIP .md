@@ -12,3 +12,6 @@ R_{\text{\$}} = R_{\text{€}} +
 \dfrac{\Delta{E}}{E} = 
 R_{\$} - R_{\text{€}}
 ```
+```math
+\sim
+```
